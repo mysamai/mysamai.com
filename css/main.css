@@ -133,6 +133,10 @@ body {
   display: inline-block;
   margin: 0;
 }
+.banner-info a {
+  text-decoration: none;
+  color: var(--brand-color-1);
+}
 .banner-info .banner-text-top {
   padding: .2em .5em 0 .5em;
 }
