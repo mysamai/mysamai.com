@@ -183,14 +183,11 @@ body {
               -ms-grid-row-align: center;
           align-items: center;
 }
-.icon-plugins, .logo-electron {
-  width: 100px;
+.icon-plugins, .logo-electron, .logo-node {
+  width: 125px;
 }
 .icon-plugins, .logo-node, .logo-electron {
   margin-bottom: 30px;
-}
-.logo-node {
-  width: 90px;
 }
 .plugins .inner-container, .node .inner-container, .electron .inner-container {
   padding: 3em;
